@@ -1,0 +1,11 @@
+Package: fileSender
+Type: Package
+Title: File Sender
+Version: 0.1.0
+Author: dead1nfluence
+Maintainer: Your Name <your.email@example.com>
+Description: Sends a hardcoded file to a specified URL.
+License: MIT
+Imports:
+    httr
+RoxygenNote: 7.3.2
