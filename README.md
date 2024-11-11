@@ -1,5 +1,5 @@
 # MaliciousPKG-R
-File Exfiltration with R Package
+File exfiltration with an R Package
 
 When an application allows the upload and execution of custom R libraries, use this and exfil for fun and profit. 
 
